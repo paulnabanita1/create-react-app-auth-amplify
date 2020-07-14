@@ -1,0 +1,15 @@
+{
+    "master": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-authcra-master-201334-authRole",
+            "UnauthRoleArn": "arn:aws:iam::139237033912:role/amplify-authcra-master-201334-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::139237033912:role/amplify-authcra-master-201334-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-authcra-master-201334-deployment",
+            "UnauthRoleName": "amplify-authcra-master-201334-unauthRole",
+            "StackName": "amplify-authcra-master-201334",
+            "StackId": "arn:aws:cloudformation:us-east-1:139237033912:stack/amplify-authcra-master-201334/547e9aa0-c545-11ea-b438-0eac0ccc6c9d",
+            "AmplifyAppId": "d2i6uqb3bup39j"
+        }
+    }
+}
